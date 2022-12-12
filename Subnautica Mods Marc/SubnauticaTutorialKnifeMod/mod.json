@@ -1,0 +1,12 @@
+﻿{
+    "Id": "SubnauticaTutorialKnifeMod",
+    "DisplayName": "Knife Damage Mod",
+    "Author": "Marc Neeleman",
+    "Version": "1.0.0",
+    "Enable": false,
+    "AssemblyName": "SubnauticaTutorialKnifeMod.dll",
+    "VersionDependencies": {
+        "SMLHelper": "2.9.6"
+    },
+    "Game": "Subnautica"
+}

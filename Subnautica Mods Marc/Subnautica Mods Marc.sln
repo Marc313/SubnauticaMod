@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubnauticaTutorialKnifeMod", "SubnauticaTutorialKnifeMod\SubnauticaTutorialKnifeMod.csproj", "{89DB1D0B-B9EF-4FC8-99A0-80C267FB1610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeaconColorMod", "BeaconColorMod\BeaconColorMod.csproj", "{2E71E0EE-BA57-49CA-AC83-1BE47A05162E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewHabitatItems", "NewHabitatItems\NewHabitatItems.csproj", "{5C3AF03E-3B76-4D90-A3F0-A8DF2F550561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewHabitatItems_BZ", "NewHabitatItems_BZ\NewHabitatItems_BZ.csproj", "{9F7E70F6-0CC0-4846-8900-10D6CF372C12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89DB1D0B-B9EF-4FC8-99A0-80C267FB1610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89DB1D0B-B9EF-4FC8-99A0-80C267FB1610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89DB1D0B-B9EF-4FC8-99A0-80C267FB1610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89DB1D0B-B9EF-4FC8-99A0-80C267FB1610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E71E0EE-BA57-49CA-AC83-1BE47A05162E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E71E0EE-BA57-49CA-AC83-1BE47A05162E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E71E0EE-BA57-49CA-AC83-1BE47A05162E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E71E0EE-BA57-49CA-AC83-1BE47A05162E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C3AF03E-3B76-4D90-A3F0-A8DF2F550561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3AF03E-3B76-4D90-A3F0-A8DF2F550561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3AF03E-3B76-4D90-A3F0-A8DF2F550561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3AF03E-3B76-4D90-A3F0-A8DF2F550561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7E70F6-0CC0-4846-8900-10D6CF372C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7E70F6-0CC0-4846-8900-10D6CF372C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7E70F6-0CC0-4846-8900-10D6CF372C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7E70F6-0CC0-4846-8900-10D6CF372C12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31DADC03-2719-4844-BB10-BCE81BD70798}
+	EndGlobalSection
+EndGlobal

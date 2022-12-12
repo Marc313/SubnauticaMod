@@ -1,0 +1,12 @@
+﻿{
+    "Id": "HabitatItemsMod",
+    "DisplayName": "New Habitat Items",
+    "Author": "Marc Neeleman",
+    "Version": "1.0.0",
+    "Enable": true,
+    "AssemblyName": "NewHabitatItems.dll",
+    "VersionDependencies": {
+        "SMLHelper": "2.9.6"
+    },
+    "Game": "Subnautica"
+}

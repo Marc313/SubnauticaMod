@@ -1,0 +1,12 @@
+﻿{
+    "Id": "NewHabitatItems_BZ",
+    "DisplayName": "New Habitat Items",
+    "Author": "Marc Neeleman",
+    "Version": "1.0.0",
+    "Enable": true,
+    "AssemblyName": "NewHabitatItems_BZ.dll",
+    "VersionDependencies": {
+        "SMLHelper": "2.9.6"
+    },
+    "Game": "BelowZero"
+}

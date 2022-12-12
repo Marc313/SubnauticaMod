@@ -1,0 +1,12 @@
+﻿{
+    "Id": "BeaconColorMod",
+    "DisplayName": "Better Beacon Colors",
+    "Author": "Marc Neeleman",
+    "Version": "1.0.0",
+    "Enable": false,
+    "AssemblyName": "BeaconColorMod.dll",
+    "VersionDependencies": {
+        "SMLHelper": "2.9.6"
+    },
+    "Game": "Subnautica"
+}
